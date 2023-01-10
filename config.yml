@@ -169,15 +169,13 @@ params:
       category: HQ
       link: https://bombinate.gr
    - name: fulldigital.gr
-      description: The web frontend.
+      description: The web frontend - The child.
       category: HQ
       link: https://fulldigital.gr   
    - name: fastpath.gr
       description: Our Hosting Companion.
       category: Associates
       link: https://fastpath.gr
-    
-
   # What date format to use?
   #
   # Hugo formatting docs:
@@ -382,7 +380,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  #googleAnalytics: UA-00000000-1
+  googleAnalytics: UA-00000000-1
 
 # These options affect the core of cState.
 # Please do not change them if you do not
