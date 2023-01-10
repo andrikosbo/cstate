@@ -158,14 +158,16 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
+    - name: www
+      category: HQ
+    - name: email
+      description: Our mailservers.
+      link: https://icloud.com
+      category: HQ
+    - name: bombinate.gr
       description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
+      category: HQ
+      link: https://bombinate.gr
     - name: API
       description: The guts of the application.
       category: Uncategorized
