@@ -146,8 +146,8 @@ params:
     - name: HQ
       description: The main services are located here.
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
+    - name: Assosiates
+    - name: Various
       untitled: true
 
   # These are your systems. Change them to
