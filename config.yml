@@ -168,10 +168,10 @@ params:
       description: The web frontend.
       category: HQ
       link: https://bombinate.gr
-   - name: fulldigital.gr
-      description: The web frontend - The child.
+      - name: fulldigital.gr
+      description: The child.
       category: HQ
-      link: https://fulldigital.gr   
+      link: https://fulldigital.gr
   
   # What date format to use?
   #
