@@ -168,7 +168,7 @@ params:
       description: The web frontend.
       category: HQ
       link: https://bombinate.gr
-      - name: fulldigital.gr
+    - name: fulldigital.gr
       description: The child.
       category: HQ
       link: https://fulldigital.gr
